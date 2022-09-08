@@ -1,0 +1,5 @@
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+PyPDF2==2.10.5
+pyttsx3==2.90
+typing_extensions==4.3.0
+pyaudio
